@@ -1,6 +1,6 @@
 # amazon
 Created exclusively for Private Discord
-Bot is currently osx only
+- Bot is currently osx only
 
 INSTRUCTIONS:
 -------------
