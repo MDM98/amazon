@@ -9,10 +9,10 @@ INSTRUCTIONS:
 - First type "Python3 -m pip install -r requirements.txt" in terminal
 
 - To run bot from destkop: 
- >cd desktop
- >cd amazon-master
- >cd amazon
- >python3 amazon.py
+- cd desktop
+- cd amazon-master
+- cd amazon
+- python3 amazon.py
 
 - Once bot is running it should open a new chrome user, log in to amazon IN THE SAME TAB to get setup
 
